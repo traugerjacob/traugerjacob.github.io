@@ -21,7 +21,7 @@ repository               : "traugerjacob/traugerjacob.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "picture.jpeg"
+  avatar           : "picture.jpg"
   name             : "Jake Trauger"
   pronouns         : # example: "she/her"  
   bio              : "4th year Statistics PhD student at the University of Michigan studying the theory of deep learning"
