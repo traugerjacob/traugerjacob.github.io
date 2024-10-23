@@ -20,4 +20,4 @@ Publications
 
 Miscellaneous
 ======
-Outside of work, I try to stay as active by doing activies such as rock climbing and fencing. I am also big music fan and I enjoy playing the guitar and I am learning the piano and harmonica. Finally, I follow Philadelphia professional sports and collegiate sports from the University of Illinois/Michigan.
+Outside of work, I try to stay active by doing activies such as rock climbing and fencing. I am also big music fan where I enjoy playing the guitar and I am learning the piano and the harmonica. Finally, I follow Philadelphia professional sports and collegiate sports from the University of Illinois/Michigan.
