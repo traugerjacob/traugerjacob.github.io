@@ -14,7 +14,7 @@ My research interests are in bridging the gap between practice and theory in mod
 
 Publications
 ======
-[On Next-Token Prediction in LLMs: How End Goals Determine the Consistency of Decoding Algorithms](https://arxiv.org/abs/2505.11183)
+[On Next-Token Prediction in LLMs: How End Goals Determine the Consistency of Decoding Algorithms](https://arxiv.org/abs/2505.11183),
 **Trauger J.**, Tewari A., _Arxiv preprint, 2025_
 
 [Sequence Length Independent Norm-Based Generalization Bounds for Transformers](https://proceedings.mlr.press/v238/trauger24a.html), **Trauger J.**, Tewari A., _The 27th International Conference on Artificial Intelligence and Statistics, 2024_
