@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am Jake Trauger and I am a 4th year Statistics PhD student at the University of Michigan. I study the theory of deep learning under my advisor [Ambuj Tewari](https://www.ambujtewari.com/). I got my undergraduate degree in Statistics & Computer Science along with Mathematics from the University of Illinois Urbana-Champaign. I have also worked as a Data Science Engineer at Simspace in between my undergrad and grad school careers. My resume can be found [here](https://traugerjacob.github.io/files/Resume_Jacob_Trauger.pdf).
+I am Jake Trauger and I am a 5th year Statistics PhD candidate at the University of Michigan. I study the theory of deep learning under my advisor [Ambuj Tewari](https://www.ambujtewari.com/). I got my undergraduate degree in Statistics & Computer Science along with Mathematics from the University of Illinois Urbana-Champaign. I have also worked as a Data Science Engineer at Simspace in between my undergrad and grad school careers. My resume can be found [here](https://traugerjacob.github.io/files/Resume_Jacob_Trauger.pdf).
 
 Research Interests
 ======
@@ -16,6 +16,9 @@ Publications
 ======
 [On Next-Token Prediction in LLMs: How End Goals Determine the Consistency of Decoding Algorithms](https://arxiv.org/abs/2505.11183),
 **Trauger J.**, Tewari A., _Arxiv preprint, 2025_
+**A poster of this paper won best poster at the Midwest Machine Learning Symposium 2025**
+
+[Characterizing the Multiclass Learnability of Forgiving 0-1 Loss Functions](https://arxiv.org/abs/2510.08382), **Trauger, J.**, Trauger T., Tewari A., _Arxiv preprint, 2025_
 
 [Sequence Length Independent Norm-Based Generalization Bounds for Transformers](https://proceedings.mlr.press/v238/trauger24a.html), **Trauger J.**, Tewari A., _The 27th International Conference on Artificial Intelligence and Statistics, 2024_
 
