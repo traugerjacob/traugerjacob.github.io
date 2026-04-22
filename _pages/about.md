@@ -6,7 +6,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am Jake Trauger and I am a 5th year Statistics PhD candidate at the University of Michigan. I study the theory of deep learning under my advisor [Ambuj Tewari](https://www.ambujtewari.com/). I got my undergraduate degree in Statistics & Computer Science along with Mathematics from the University of Illinois Urbana-Champaign. I have also worked as a Data Science Engineer at Simspace in between my undergrad and grad school careers. My resume can be found [here](https://traugerjacob.github.io/files/Resume_Jacob_Trauger.pdf).
+Hi! I am Jake Trauger and I am a 5th year Statistics PhD candidate at the University of Michigan. I study the theory of deep learning under my advisor [Ambuj Tewari](https://www.ambujtewari.com/). After the completion of my Ph.D., I will be joining IMC Trading as a Graduate Machine Learning Researcher.
+
+I got my undergraduate degree in Statistics & Computer Science along with Mathematics from the University of Illinois Urbana-Champaign. I have also worked as a Data Science Engineer at Simspace in between my undergrad and grad school careers. My resume can be found [here](https://traugerjacob.github.io/files/Resume_Jacob_Trauger.pdf).
 
 Research Interests
 ======
@@ -26,4 +28,4 @@ Publications
 
 Miscellaneous
 ======
-Outside of work, I try to stay active by doing activies such as rock climbing and fencing. I am also big music fan where I enjoy playing the guitar and I am learning the piano and the harmonica. Finally, I follow Philadelphia professional sports and collegiate sports from the University of Illinois/Michigan.
+Outside of work, I try to stay active by doing activies such as rock climbing and fencing. I am also big music fan where I enjoy playing the guitar and I am learning the piano and the harmonica. I am also a big Philadelphia professional sports fan and a fan of collegiate sports from the University of Illinois/Michigan.
